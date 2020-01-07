@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergradutate in Shanghai Jiao Tong University, majoring in Computer Science advised by [Prof. Quanshi Zhang](https://www.qszhang.com).
+I am an undergradutate in Shanghai Jiao Tong University, majoring in Computer Science advised by [Prof. Quanshi Zhang](http://qszhang.com).
 
 My research mainly focuses on computer vision and machine learning.
 
