@@ -1,7 +1,9 @@
 ---
 title: "Attributes Obfuscation with Complex-Valued Features"
 collection: publications
-paperurl: 'http://Jie-Ren.github.io/files/privacy_learning.pdf'
-Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang
+excerpt: "Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang"
+venue: "ICLR 2020"
+paperurl: 'http://Jie-Ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf'
+---
 
-[Download paper here](http://Jie-Ren.github.io/files/privacy_learning.pdf)
+[Download paper here](http://Jie-Ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf)
