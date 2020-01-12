@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergradutate in Shanghai Jiao Tong University, majoring in Computer Science advised by [Prof. Quanshi Zhang](http://qszhang.com).
 
-My research mainly focuses on computer vision and machine learning.
+My research mainly focuses on computer vision and machine learning. Now, I am in a group for explainable AI. The related topics include explainable CNNs, explainable generative networks, unsupervised semanticization of pre-trained neural networks, and unsupervised/weakly-supervised learning of neural networks.
 
 News
 ======
