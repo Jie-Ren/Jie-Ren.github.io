@@ -30,4 +30,4 @@ Publications
 
     Runjin Chen, Hao Chen, **Jie Ren**, Ge Huang, Quanshi Zhang
 
-    Download [pdf](https://jie-ren.github.io/files/explaining_neural_networks_semantically_and_quantitatively.pdf), [slides](https://jie-ren.github.io/files/explaining_neural_networks_semantically_and_quantitatively.ppt)
+    Download [pdf](https://jie-ren.github.io/files/explaining_neural_networks_semantically_and_quantitatively.pdf), [slides](https://jie-ren.github.io/files/explaining_neural_networks_semantically_and_quantitatively.pptx)
