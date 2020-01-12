@@ -20,8 +20,14 @@ News
 
 Publications
 ======
-+ **Attributes Obfuscation with Complex-Valued Features**(https://jie-ren.github.io/publications/2020-01-01-attributes_obfuscation_with_complex_valued_features)
++ [**Attributes Obfuscation with Complex-Valued Features**](http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf), ICLR 2020
+    
+    Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang
 
-Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang
+    Download [here](http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf)
 
-PDF(http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf)
++ [**Explaining Neural Networks Semantically and Quantitatively**](https://arxiv.org/abs/1812.07169), ICCV 2019 (oral)
+
+    Runjin Chen, Hao Chen, **Jie Ren**, Ge Huang, Quanshi Zhang
+
+    Download [here](https://jie-ren.github.io/files/explaining_neural_networks_semantically_and_quantitatively.pdf)
