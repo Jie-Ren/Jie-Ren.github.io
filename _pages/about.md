@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergradutate in Shanghai Jiao Tong University, majoring in Computer Science advised by [Prof. Quanshi Zhang](http://qszhang.com).
+I received my B.Eng. degree from Shanghai Jiao Tong University in 2020. I am now pursuing my Ph.D degree under the supervision [Prof. Quanshi Zhang](http://qszhang.com) in Shanghai Jiao Tong University.
 
 My research mainly focuses on computer vision and machine learning. Now, I am in a group for explainable AI. The related topics include explainable CNNs, explainable generative networks, unsupervised semanticization of pre-trained neural networks, and unsupervised/weakly-supervised learning of neural networks.
 
