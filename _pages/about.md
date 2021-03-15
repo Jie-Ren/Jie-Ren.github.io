@@ -25,7 +25,7 @@ News
 Publications
 ======
 * **A Unified Approach to Interpreting and Boosting Adversarial Transferability**, &emsp;ICLR 2021      
-    Xin Wang*, **Jie Ren* **, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang  
+    Xin Wang\*, **Jie Ren\***, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang  
     Download [pdf](https://arxiv.org/abs/2010.04055)
     
 * **Mining Interpretable AOG Representations from Convolutional Networks via Active Question Answering**, &emsp;IEEE T-PAMI (online available)      
