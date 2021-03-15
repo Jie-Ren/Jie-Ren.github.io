@@ -24,16 +24,16 @@ News
 
 Publications
 ======
-* **A Unified Approach to Interpreting and Boosting Adversarial Transferability**, &emsp;ICLR 2021    
-    Xin Wang, **Jie Ren**, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang
+* **A Unified Approach to Interpreting and Boosting Adversarial Transferability**, &emsp;ICLR 2021      
+    Xin Wang, **Jie Ren**, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang  
     Download [pdf](https://arxiv.org/abs/2010.04055)
     
-* **Mining Interpretable AOG Representations from Convolutional Networks via Active Question Answering**, &emsp;IEEE T-PAMI (online available)
-    Quanshi Zhang, **Jie Ren**, Ge Huang, Ruiming Cao, Ying Nian Wu, Song-Chun Zhu      
+* **Mining Interpretable AOG Representations from Convolutional Networks via Active Question Answering**, &emsp;IEEE T-PAMI (online available)      
+    Quanshi Zhang, **Jie Ren**, Ge Huang, Ruiming Cao, Ying Nian Wu, Song-Chun Zhu  
     Download [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9089355)
     
 * [**Attributes Obfuscation with Complex-Valued Features**](http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf), &emsp;ICLR 2020      
-    Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang  
+    Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang
     Download [pdf](http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf)
 
 * [**Explaining Neural Networks Semantically and Quantitatively**](https://arxiv.org/abs/1812.07169), &emsp;ICCV 2019 (oral)  
