@@ -33,7 +33,7 @@ Publications
     Download [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9089355)
     
 * [**Attributes Obfuscation with Complex-Valued Features**](http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf), &emsp;ICLR 2020      
-    Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang
+    Liyao Xiang, Hao Zhang, Haotian Ma, Yifan Zhang, **Jie Ren**, Quanshi Zhang  
     Download [pdf](http://jie-ren.github.io/files/attributes_obfuscation_with_complex_valued_features.pdf)
 
 * [**Explaining Neural Networks Semantically and Quantitatively**](https://arxiv.org/abs/1812.07169), &emsp;ICCV 2019 (oral)  
